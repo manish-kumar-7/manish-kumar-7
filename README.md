@@ -1,6 +1,6 @@
 - Hii,👋  I’m manish kumar
 - 👀 I’m interested in Problem Solving(DSA) 
-- 🌱 I’m currently learning ...MERN stack , DSA in java
+- 🌱 I’m currently learning MERN stack , DSA in java
 - 📫 How to reach me,  manishkumar28112005@gmail.com
   
 
